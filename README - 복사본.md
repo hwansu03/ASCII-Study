@@ -1,2 +1,0 @@
-# ASCII-Study
-ASCII-Study
